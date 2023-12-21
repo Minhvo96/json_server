@@ -430,7 +430,6 @@
     ],
     "customers": [
         {
-            "amount": 100000,
             "id": 1,
             "fullName": "Carlos Carney",
             "balance": 100000,
@@ -439,7 +438,6 @@
             "address": "Velit magnam atque "
           },
           {
-            "amount": 100000,
             "id": 2,
             "fullName": "Maxwell Rivera",
             "balance": 100000,

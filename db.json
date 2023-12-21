@@ -429,6 +429,39 @@
         
     ],
     "customers": [
-        
+        {
+            "amount": 100000,
+            "id": 1,
+            "fullName": "Carlos Carney",
+            "balance": 100000,
+            "email": "kuvisejyku@mailinator.com",
+            "phone": 63,
+            "address": "Velit magnam atque "
+          },
+          {
+            "amount": 100000,
+            "id": 2,
+            "fullName": "Maxwell Rivera",
+            "balance": 100000,
+            "email": "paxarefy@mailinator.com",
+            "phone": 26,
+            "address": "Sapiente ut eius duc"
+          },
+          {
+            "address": "Esse exercitation ar",
+            "phone": 34,
+            "email": "qytubu@mailinator.com",
+            "fullName": "Christen King",
+            "balance": "0",
+            "id": 3
+          },
+          {
+            "address": "Amet distinctio Te",
+            "phone": 39,
+            "email": "toryqagi@mailinator.com",
+            "fullName": "Keelie Velazquez",
+            "balance": "0",
+            "id": 4
+          }
     ]
 }

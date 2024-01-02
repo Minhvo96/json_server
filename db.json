@@ -531,6 +531,14 @@
             "stockQuantity": "200",
             "quantity": "20",
             "type": "BOTTLE"
+        },
+        {
+            "id": 3,
+            "nameMedicine": "Khám viêm Indomethacin",
+            "priceMedicine": "80000",
+            "stockQuantity": "12",
+            "quantity": "5",
+            "type": "BOTTLE"
         }
     ]
 

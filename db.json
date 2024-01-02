@@ -461,5 +461,33 @@
             "balance": "0",
             "id": 4
           }
-    ]
+    ],
+    "services": [
+        {
+            "id": 1,
+            "name": "Khám mắt tổng quát",
+            "price": "150.000",
+            "description": "Khám mắt bao gồm phát hiện chẩn đoán tật khúc xạ và các bệnh ở mắt. Kể cả khi mắt bạn trông bình thường và chưa từng đeo kính, khuyến cáo từ WHO khuyên bạn nên đi khám ít nhất 1-2 năm/lần."
+        },
+        {
+            "id": 2,
+            "name": "Sử dụng OrthoK",
+            "price": "250.000",
+            "description": "OrthoK là phương pháp sử dụng kính tiếp xúc ban đêm ngăn ngừa sự tiến triển cận thị của trẻ. Sử dụng kính OrthoK giúp giải phóng trẻ khỏi kính gọng và giúp độ cận không tăng thêm nữa."
+        },
+        {
+            "id": 3,
+            "name": "Làm kính áp tròng",
+            "price": "250.000",
+            "description": "Kính áp tròng được sử dụng cho người lớn và trẻ nhỏ với nhiều chỉ định khác nhau, như: giác mạc chóp, sẹo giác mạc, đục thể thủy tinh bẩm sinh, lệch khúc xạ, kiểm soát tiển triển cận thị,.."
+        },
+        {
+            "id": 4,
+            "name": "Chẩn đoán kỹ thuật cao",
+            "price": "350.000",
+            "description": "Phòng khám cung cấp dịch vụ chẩn đoán kỹ thuật cao, giúp phát hiện, chẩn đoán và theo dõi các bệnh lý về mắt được tối ưu nhất."
+        }
+    ],
+    "prescription": []
+
 }

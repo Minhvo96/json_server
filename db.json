@@ -492,11 +492,11 @@
     "booking": [
         {
             "id" : 1,
-            "eyeCategory": {
-              "id": 1,
-              "nameCategory": "Kham tong quat",
-              "price": 100.000,
-              "decription": ""
+            "services": {
+                "id": 1,
+                "name": "Khám mắt tổng quát",
+                "price": "150.000",
+                "description": "Khám mắt bao gồm phát hiện chẩn đoán tật khúc xạ và các bệnh ở mắt. Kể cả khi mắt bạn trông bình thường và chưa từng đeo kính, khuyến cáo từ WHO khuyên bạn nên đi khám ít nhất 1-2 năm/lần."
             },
             "dateBooking": "2024-04-01",
             "timeBooking": "10:30",

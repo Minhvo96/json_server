@@ -488,6 +488,32 @@
             "description": "Phòng khám cung cấp dịch vụ chẩn đoán kỹ thuật cao, giúp phát hiện, chẩn đoán và theo dõi các bệnh lý về mắt được tối ưu nhất."
         }
     ],
-    "prescription": []
+    "prescription": [],
+    "booking": [
+        {
+            "id" : 1,
+            "eyeCategory": {
+              "id": 1,
+              "nameCategory": "Kham tong quat",
+              "price": 100.000,
+              "decription": ""
+            },
+            "dateBooking": "2024-04-01",
+            "timeBooking": "10:30",
+            "customer": {
+              "id": 1,
+              "age": 25,
+              "user": {
+                "id": 1,
+                "fullName": "Nguyen Van A",
+                "address": "24 Nguyen Hue",
+                "phoneNumber": "0123456789",
+                "password":"",
+                "role": "ROLE_CUSTOMER"
+              }
+            },
+            "status" : "EXAMINING"
+          }
+    ]
 
 }

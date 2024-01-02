@@ -514,6 +514,24 @@
             },
             "status" : "EXAMINING"
           }
+    ],
+    "medicine": [
+        {
+            "id": 1,
+            "nameMedicine": "Kháng sinh Gentamycin",
+            "priceMedicine": "15000",
+            "stockQuantity": "100",
+            "quantity": "10",
+            "type": "PELLET"
+        },
+        {
+            "id": 2,
+            "nameMedicine": "Alpha Choay",
+            "priceMedicine": "66000",
+            "stockQuantity": "200",
+            "quantity": "20",
+            "type": "BOTTLE"
+        }
     ]
 
 }
